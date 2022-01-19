@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
 font_size: L
@@ -20,18 +20,10 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: daeb@natur.gl
-phone: +299 36 12 23
+email: mariafdezmiguez@gmail.com
 address:
-  street: 2 Kivioq
-  city: Nuuk
-  region: Sermersooq
-  postcode: '3900'
-  country: Greenland
-  country_code: GL
-coordinates:
-  latitude: '64.1904544'
-  longitude: '-51.6952926'
+  city: Vigo
+  country: Spain
 
 # Site header
 
