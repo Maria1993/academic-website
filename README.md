@@ -1,8 +1,7 @@
-# ArcticTales
+# Academicweb
 
-This is my personal website. It caontains:
+This is my personal website. It contains:
 
 * My professional and academic profile
-* My blogs
 
 The webpage is build with HUGO and managed with Rmarkdown. It is hosted in [Netlify](https://daniel-estevezbarcia.netlify.app/).
