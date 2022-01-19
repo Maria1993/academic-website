@@ -1,4 +1,4 @@
-# Academicweb
+# Academic website
 
 This is my personal website. It contains:
 
