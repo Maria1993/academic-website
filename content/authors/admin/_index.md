@@ -4,13 +4,13 @@ education:
   courses:
   - course: PhD in Genetics | Aquaculture & Fisheries
     institution: University of Vigo, Spain
-    year: 2017-2021
+    year: 2017 - 2021
   - course: MSc in Aquaculture
     institution: University of Santiago de Compostela, Spain
-    year: 2015-2017
+    year: 2015 - 2017
   - course: BSc in Biology
     institution: University of Santiago de Compostela, Spain
-    year: 2011-2015
+    year: 2011 - 2015
     
 email: ""
 highlight_name: false
@@ -47,6 +47,6 @@ superuser: true
 title: María Fernández-Míguez
 ---
 
-I am a postdoctoral researcher of applied population genetics at the Greenland Institute of Natural Resources. My research interests include molecular ecology, evolutionary biology, population genomics and fisheries science. I am part of the genetics working group within the NORSUSTAIN project, aiming to understand the population structure and dynamics of Greenland halibut, an important commercial fish species in the North Atlantic and the Arctic. The knowledge from this project can contribute to informed management plans that guarantee sustainable exploitation of this fishery.
+I have a PhD of applied genetics to aquaculture and fisheries from the University of Vigo. My research interests include taxonomy, phylogeny, population genomics, aquaculture and fisheries science. I am part of the genetics working group within the NORSUSTAIN project, aiming to understand the population structure and dynamics of Greenland halibut, an important commercial fish species in the North Atlantic and the Arctic. The knowledge from this project can contribute to informed management plans that guarantee sustainable exploitation of this fishery.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/EstevezDaniel_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
