@@ -21,9 +21,16 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: mariafdezmiguez@gmail.com
-address: Campus Universitario, 36310
+address:
+  street: Campus Universitario Lagoas-Marcosende
   city: Vigo
+  region: Pontevedra
+  postcode: '36310'
   country: Spain
+  country_code: SP
+coordinates:
+  latitude: '42.16605'
+  longitude: '-8.68499'
 
 # Site header
 
